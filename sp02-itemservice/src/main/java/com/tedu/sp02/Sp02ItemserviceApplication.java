@@ -6,9 +6,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 @SpringBootApplication
 public class Sp02ItemserviceApplication {
-
+	//222222
 	public static void main(String[] args) {
 		SpringApplication.run(Sp02ItemserviceApplication.class, args);
 	}
-
+	//48655
 }
